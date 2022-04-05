@@ -1,0 +1,20 @@
+{
+  "name": "rock-scissors-paper-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rockScissorsPaper.js",
+  "scripts": {
+    "start": "node rockScissorsPaper"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talisman4ik123/Rock-Scissors-Paper-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talisman4ik123/Rock-Scissors-Paper-game/issues"
+  },
+  "homepage": "https://github.com/talisman4ik123/Rock-Scissors-Paper-game#readme"
+}
